@@ -1,0 +1,6 @@
+com\repository\Studentrepository.class
+com\serviceimpl\Studentserviceimpl.class
+com\model\Student.class
+com\Springbootcrudapp1Application.class
+com\controller\HomeController.class
+com\servicei\Studentservicei.class
